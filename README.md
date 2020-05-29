@@ -1,7 +1,7 @@
 # 대화시나리오를 풍부하게 도와주는 NUGU 서비스 활용하기
 albert AI는 인공지능 NUGU가 탑재되어있습니다. 음악/오디오, 생활/정보, 검색 등 NUGU 서비스는 물론, 음성으로 손쉽게 알버트AI를 조종할 수 있습니다. 여러분의 로봇 대화시스템에 다양하고 방대한 인공지능 서비스를 연계해보세요. 
 
-[![NUGUPLAY](http://img.youtube.com/vi/abWH7S6JZMQ/0.jpg)](https://youtu.be/abWH7S6JZMQ)
+[![SERVICE](http://img.youtube.com/vi/abWH7S6JZMQ/0.jpg)](https://youtu.be/abWH7S6JZMQ)
 
 Albert AI에서 제공하는 NUGU 서비스
 ---
